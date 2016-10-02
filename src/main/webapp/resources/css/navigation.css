@@ -1,0 +1,27 @@
+.marginTop {
+    margin-top: 0.4%;
+}
+
+.navbar-default {
+    background-color: white;
+    border-bottom-color: green;
+    border-radius: 0;
+
+}
+
+.dropdown-menu {
+    text-align: left;
+}
+
+
+.marginRight {
+    margin-right: 1.6% !important;
+}
+.removeMarginRight {
+    margin-right: 0!important;
+}
+
+.menuItem {
+    color: black; /* Цвет символа */
+    font-size: 180%; /* Размер шрифта */
+}
